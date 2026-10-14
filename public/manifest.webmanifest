@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "RepoPulse — Repository Intelligence",
+  "short_name": "RepoPulse",
+  "description": "Read public GitHub repository activity, contributors, and engineering signals with transparent data limits.",
+  "lang": "en",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#F2F0EA",
+  "theme_color": "#F2F0EA",
+  "categories": ["developer", "productivity", "utilities"],
+  "icons": [
+    { "src": "/icons/repopulse-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/repopulse-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/repopulse-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
